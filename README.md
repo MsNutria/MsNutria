@@ -14,6 +14,7 @@
 * Machine Learning
 * Cibersecurity
 * Frontend and Backend Web Development
+* Nowadays learning python and Desing Thinking Method
 
  ```python
  class WhoAmI:
