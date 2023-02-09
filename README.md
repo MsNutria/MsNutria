@@ -9,11 +9,11 @@
 
 <h2>You can reach me at 🍒:</h2>
 
-<p>
-<a href="https://www.linkedin.com/in/margi-africano"><img src="https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>	
-<a href="https://www.linkedin.com/in/margi-africano"><img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>		
+
+<a href="https://www.linkedin.com/in/margi-africano"><img src="https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:africanomargi@gmail.com)](mailto:africanomargi@gmail.com)
 <a href="https://www.instagram.com/june00004/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-</p>
+
 
 ---
 
