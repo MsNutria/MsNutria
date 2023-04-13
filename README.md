@@ -71,4 +71,10 @@
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 <p><img src="https://metrics.lecoq.io/MsNutria"><p>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Marshi"  target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=r7yx1u0usoqswg9kctrpdr40s">
+  </a>
+</div>
  
